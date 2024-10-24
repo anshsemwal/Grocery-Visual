@@ -22,6 +22,6 @@ Sales Data: Information on sales transactions, including product, quantity and p
 
 Outlet Data: Details on outlet locations and sizes.
 
-Customer Data: Demographic and purchase behavior data for Blinkit customers.
+Customer Data: Demographic and purchase behavior data for customers.
 
-The data is stored in an Excel file named BlinkIT Grocery Data.xlsx.
+The data is stored in an Excel file named Grocery Data.xlsx.
